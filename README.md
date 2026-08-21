@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EstateMind AI – House Price Prediction & Real Estate Analytics Platform
 
 > **EstateMind AI** is a production-ready, luxury real estate valuation engine, interior cost estimator, and mortgage finance suite optimized for Indian metro markets.
@@ -94,3 +95,6 @@ EstateMind-AI-House-Price-Prediction/
 ## 📝 License
 
 Distributed under the MIT License. See `LICENSE` for details.
+=======
+# EstateMind-AI-House-Price-Prediction
+>>>>>>> 73833b0d927774fb63a408834093823877b0ea3f
