@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # EstateMind AI – House Price Prediction & Real Estate Analytics Platform
 
-> **EstateMind AI** is a production-ready, luxury real estate valuation engine, interior cost estimator, and mortgage finance suite optimized for Indian metro markets.
+ **EstateMind AI** is a production-ready, luxury real estate valuation engine, interior cost estimator, and mortgage finance suite optimized for Indian metro markets.
 
 ---
 
