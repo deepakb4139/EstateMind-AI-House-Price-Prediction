@@ -49,16 +49,6 @@ Fetch property listings with optional search filters.
 |
  Example 
 |
-|
-:---
-|
-:---
-|
-:---
-|
-:---
-|
-|
 `city`
 |
 `string`
